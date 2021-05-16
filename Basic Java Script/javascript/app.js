@@ -4,3 +4,4 @@ console.log(text);
    for (x = 0; x < i; x++) {
      console.log(x);
    }
+
